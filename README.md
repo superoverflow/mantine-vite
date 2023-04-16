@@ -1,0 +1,1 @@
+Simple mantine table exercise with Vite
